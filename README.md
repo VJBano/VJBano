@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vincent62317307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincent62317307" height="30" width="40" /></a>
+<a href="https://x.com/jay_bano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincent62317307" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vincent-jay-bano-776076225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vincent-jay-bano-776076225/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/vincentjay.bano.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/vincentjay.bano.1/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/vjbanz.21?utm_source=qr&igshid=zguzmzm3nwjioq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vjbanz.21?utm_source=qr&igshid=zguzmzm3nwjioq%3d%3d" height="30" width="40" /></a>
