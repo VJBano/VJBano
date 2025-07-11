@@ -128,18 +128,43 @@
 
 <br/>
 
-<!-- Coding Time Stats (if you use WakaTime) -->
+<!-- Dynamic Coding Activity -->
 <div align="center">
   <h3>⏰ Weekly Development Breakdown</h3>
   
+  <!-- WakaTime Stats (Dynamic) - To enable, sign up at wakatime.com and add to your GitHub secrets -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vjbano&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  
+  <!-- Alternative: GitHub Language Stats (Dynamic based on your repositories) -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjbano&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+  </div>
+  
+  <!-- GitHub Activity Heatmap -->
+  <div style="margin-top: 20px;">
+    <img src="https://ghchart.rshah.org/00d8ff/vjbano" alt="GitHub Activity Heatmap" width="100%" />
+  </div>
+  
+</div>
+
+<!-- Real-time Coding Activity (if WakaTime is set up) -->
+<div align="center">
+  <h3>📊 Detailed Weekly Stats</h3>
+  
+  <!-- This will show actual coding time when WakaTime is connected -->
+  <!--START_SECTION:waka-->
   ```text
   💻 This Week I Spent My Time On:
   
-  JavaScript   ████████████████░░░░░   75.2%
-  TypeScript   ████░░░░░░░░░░░░░░░░░   18.3%
-  CSS/SCSS     ██░░░░░░░░░░░░░░░░░░░    4.1%
-  HTML         █░░░░░░░░░░░░░░░░░░░░    2.4%
+  🔥 Languages & Frameworks:
+  Based on repository activity and commits
+  
+  📊 To get real-time stats:
+  1. Sign up at wakatime.com
+  2. Install WakaTime plugin in VS Code
+  3. Add WakaTime secret to GitHub Actions
   ```
+  <!--END_SECTION:waka-->
   
 </div>
 
