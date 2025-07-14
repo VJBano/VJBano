@@ -132,10 +132,7 @@
 <div align="center">
   <h3>⏰ Weekly Development Breakdown</h3>
   
-  <!-- WakaTime Stats (Dynamic) - To enable, sign up at wakatime.com and add to your GitHub secrets -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vjbano&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
-  
-  <!-- Alternative: GitHub Language Stats (Dynamic based on your repositories) -->
+  <!-- GitHub Language Stats (Dynamic based on your repositories) -->
   <div style="margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjbano&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most Used Languages" />
   </div>
@@ -147,82 +144,28 @@
   
 </div>
 
-<!-- Real-time Coding Activity (if WakaTime is set up) -->
+<!-- Real-time Coding Activity -->
 <div align="center">
-  <h3>📊 Detailed Weekly Stats</h3>
+  <h3>📊 Current Development Stats</h3>
   
-  <!-- This will show actual coding time when WakaTime is connected -->
+  <!-- Live GitHub Stats -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vjbano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjbano&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </div>
+  
+  <!-- WakaTime Stats - Uncomment when WakaTime is properly configured -->
+  <!--
+  To enable WakaTime stats:
+  1. Sign up at https://wakatime.com
+  2. Install WakaTime plugin in your code editor
+  3. Set up GitHub Action workflow
+  4. Add WAKATIME_API_KEY to repository secrets
+  -->
+  
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 264.4 kB Used in GitHub's Storage 
- > 
-> 🏆 311 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 16 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                781 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-🌆 Daytime                1300 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌃 Evening                2948 commits        █████████████░░░░░░░░░░░░   52.33 % 
-🌙 Night                  605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Tuesday                  1512 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Wednesday                854 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Thursday                 1465 commits        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Friday                   828 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Sunday                   64 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               34 repos            ████████████████░░░░░░░░░   64.15 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-```
-
-
-
-
- Last Updated on 11/07/2025 07:37:13 UTC
-<!--END_SECTION:waka-->
+  <!-- WakaTime stats will appear here when properly configured -->
+  <!--END_SECTION:waka-->
   
 </div>
 
