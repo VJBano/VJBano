@@ -115,18 +115,7 @@
 
 <br/>
 
-<!-- Latest Blog Posts / Projects -->
-<div align="center">
-  <h3>📝 Latest Projects & Contributions</h3>
-  
-  <!-- GitHub Readme Stats for repositories -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vjbano&repo=vanz_web&theme=radical&hide_border=true" alt="Portfolio Repository"/>
-  
-  <!-- You can add more pinned repos here when you have them -->
-  
-</div>
 
-<br/>
 
 <!-- Dynamic Coding Activity -->
 <div align="center">
@@ -216,12 +205,7 @@ TypeScript               2 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-tot-ops                  4 hrs 28 mins       ███████████████████████░░   92.36 % 
-VJBano                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-aqua_prompt              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-
-💻 Operating System: 
+ Operating System: 
 Linux                    4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
