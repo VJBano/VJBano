@@ -153,7 +153,9 @@
   -->
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2025%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -167,6 +169,35 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1143 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+🌆 Daytime                3167 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌃 Evening                11844 commits       ████████████████░░░░░░░░░   64.16 % 
+🌙 Night                  2305 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+JavaScript               15 hrs 35 mins      ██████████████░░░░░░░░░░░   57.76 % 
+Other                    4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+JSON                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+TypeScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 59 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    26 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -180,7 +211,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 18:51:41 UTC
+ Last Updated on 17/09/2025 18:51:30 UTC
 <!--END_SECTION:waka-->
   
 </div>
