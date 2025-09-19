@@ -153,15 +153,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-213.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.5 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2025
+> 🏆 559 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -169,35 +169,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1158 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-🌆 Daytime                3230 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌃 Evening                12248 commits       ████████████████░░░░░░░░░   64.36 % 
-🌙 Night                  2395 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-JavaScript               12 hrs 45 mins      █████████████░░░░░░░░░░░░   50.75 % 
-Other                    4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-JSON                     4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 9 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    25 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -211,7 +182,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2025 18:53:05 UTC
+ Last Updated on 19/09/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
   
 </div>
