@@ -30,11 +30,11 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
         
           LOCALE: "en"
           
