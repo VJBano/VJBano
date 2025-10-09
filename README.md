@@ -153,7 +153,7 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278.2%20million%20lines%20of%20code-blue)
 
@@ -161,7 +161,7 @@
 
 > 📦 264.5 kB Used in GitHub's Storage 
  > 
-> 🏆 645 Contributions in the Year 2025
+> 🏆 651 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -169,16 +169,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1338 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-🌆 Daytime                4002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-🌃 Evening                17470 commits       ████████████████░░░░░░░░░   65.27 % 
-🌙 Night                  3954 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -191,8 +181,20 @@ VS Code                  25 hrs 13 mins      ███████████�
 Linux                    25 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
+**I Mostly Code in TypeScript** 
 
- Last Updated on 09/10/2025 16:22:28 UTC
+```text
+TypeScript               32 repos            ███████████████░░░░░░░░░░   59.26 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+```
+
+
+
+
+ Last Updated on 09/10/2025 16:38:25 UTC
 <!--END_SECTION:waka-->
   
 </div>
