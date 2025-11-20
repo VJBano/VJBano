@@ -153,15 +153,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-343.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.6 kB Used in GitHub's Storage 
  > 
-> 🏆 732 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -175,10 +175,10 @@
 🕑︎ Time Zone: Asia/Manila
 
 🔥 Editors: 
-VS Code                  16 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -194,7 +194,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2025 18:51:21 UTC
+ Last Updated on 20/11/2025 18:48:35 UTC
 <!--END_SECTION:waka-->
   
 </div>
