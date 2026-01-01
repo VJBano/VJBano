@@ -155,13 +155,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.49%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 265.3 kB Used in GitHub's Storage 
+> 📦 265.4 kB Used in GitHub's Storage 
  > 
-> 🏆 923 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -194,7 +194,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:48:43 UTC
+ Last Updated on 01/01/2026 18:47:32 UTC
 <!--END_SECTION:waka-->
   
 </div>
