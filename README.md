@@ -153,21 +153,21 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-169.49%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 265.4 kB Used in GitHub's Storage 
+> 📦 266.0 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -175,26 +175,26 @@
 🕑︎ Time Zone: Asia/Manila
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ██████████████░░░░░░░░░░░   57.89 % 
-JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               33 repos            ██████████████░░░░░░░░░░░   56.90 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 04/01/2026 18:46:09 UTC
+ Last Updated on 05/01/2026 18:50:41 UTC
 <!--END_SECTION:waka-->
   
 </div>
