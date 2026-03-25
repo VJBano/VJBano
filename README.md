@@ -153,7 +153,7 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-241.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -161,11 +161,11 @@
 
 > 📦 266.1 kB Used in GitHub's Storage 
  > 
-> 🏆 296 Contributions in the Year 2026
+> 🏆 298 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
@@ -184,17 +184,17 @@ Linux                    14 hrs 49 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ██████████████░░░░░░░░░░░   54.24 % 
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               32 repos            █████████████░░░░░░░░░░░░   53.33 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 24/03/2026 19:40:30 UTC
+ Last Updated on 25/03/2026 19:23:13 UTC
 <!--END_SECTION:waka-->
   
 </div>
