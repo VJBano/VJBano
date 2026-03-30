@@ -155,13 +155,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 266.2 kB Used in GitHub's Storage 
  > 
-> 🏆 302 Contributions in the Year 2026
+> 🏆 313 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -186,7 +186,7 @@ Linux                    15 hrs 27 mins      ███████████�
 ```text
 TypeScript               32 repos            █████████████░░░░░░░░░░░░   53.33 % 
 JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
@@ -194,7 +194,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 19:13:28 UTC
+ Last Updated on 30/03/2026 19:50:12 UTC
 <!--END_SECTION:waka-->
   
 </div>
