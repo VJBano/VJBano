@@ -153,7 +153,9 @@
   -->
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-266.86%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%205%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264.81%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,7 +195,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 19:03:53 UTC
+ Last Updated on 19/04/2026 19:30:47 UTC
 <!--END_SECTION:waka-->
   
 </div>
