@@ -153,7 +153,7 @@
   -->
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,33 +167,20 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-🔥 Editors: 
-VS Code                  5 hrs 52 mins       ██████████████░░░░░░░░░░░   57.48 % 
-Unknown Editor           4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.52 % 
-
-💻 Operating System: 
-Linux                    10 hrs 12 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ██████████████░░░░░░░░░░░   54.10 % 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               32 repos            █████████████░░░░░░░░░░░░   53.33 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 19:32:12 UTC
+ Last Updated on 23/05/2026 19:10:49 UTC
 <!--END_SECTION:waka-->
   
 </div>
