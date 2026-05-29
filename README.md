@@ -153,13 +153,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297.88%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2014%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-300.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 266.2 kB Used in GitHub's Storage 
  > 
-> 🏆 490 Contributions in the Year 2026
+> 🏆 498 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -167,6 +169,21 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+🔥 Editors: 
+VS Code                  13 hrs 29 mins      ████████████████░░░░░░░░░   65.54 % 
+V4                       4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Visual                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Linux                    20 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -180,7 +197,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:52:54 UTC
+ Last Updated on 29/05/2026 19:47:37 UTC
 <!--END_SECTION:waka-->
   
 </div>
