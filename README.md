@@ -153,15 +153,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 266.2 kB Used in GitHub's Storage 
  > 
-> 🏆 510 Contributions in the Year 2026
+> 🏆 511 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -175,14 +175,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 🔥 Editors: 
-VS Code                  23 hrs 7 mins       ███████████████████████░░   90.58 % 
-V4                       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Visual                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+VS Code                  19 hrs 38 mins      ████████████████████████░   97.21 % 
+Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+V4                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Visual                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    25 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -198,7 +198,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 19:54:54 UTC
+ Last Updated on 04/06/2026 19:27:52 UTC
 <!--END_SECTION:waka-->
   
 </div>
