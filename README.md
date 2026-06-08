@@ -153,7 +153,9 @@
   -->
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.24%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%204%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-300.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,6 +169,20 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+🔥 Editors: 
+VS Code                  5 hrs 24 mins       ███████████████████████░░   92.89 % 
+Claude Code              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+💻 Operating System: 
+Linux                    5 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -180,7 +196,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 19:02:51 UTC
+ Last Updated on 08/06/2026 19:39:22 UTC
 <!--END_SECTION:waka-->
   
 </div>
