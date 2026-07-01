@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Passionate Full-Stack Developer from the Philippines 🇵🇭</h3>
+  <h3>🚀 Sofware Engineer from the Philippines 🇵🇭</h3>
   <p>Building scalable web applications with modern technologies</p>
 </div>
 
@@ -48,6 +48,9 @@
   </a>
   <a href="https://vjbano.github.io/vanz_web/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/sponsors/vjbano" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
   </a>
 </div>
 
@@ -99,6 +102,24 @@
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<!-- 3D Contribution Skyline (generated daily by .github/workflows/profile-3d-contrib.yml) -->
+<div align="center">
+  <h3>🌆 3D Contribution Skyline</h3>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution skyline" />
+</div>
+
+<br/>
+
+<!-- GitHub Achievements -->
+<div align="center">
+  <h3>🏅 Achievements</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vjbano&theme=github_dark" alt="GitHub Stats Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjbano&theme=github_dark" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vjbano&theme=github_dark&utcOffset=8" alt="Productive Time"/>
 </div>
 
 <br/>
