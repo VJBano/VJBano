@@ -29,13 +29,14 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE: "False"
+          SHOW_LOC_CHART: "True"
+          SHOW_LANGUAGE: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           COMMIT_BY_ME: "False"
           SHOW_COMMIT: "False"
+          BADGE_STYLE: "flat-square"
         
           LOCALE: "en"
           
