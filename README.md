@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Sofware Engineer from the Philippines 🇵🇭</h3>
+  <h3>🚀 Software Engineer from the Philippines 🇵🇭</h3>
   <p>Building scalable web applications with modern technologies</p>
 </div>
 
