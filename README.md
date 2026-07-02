@@ -174,15 +174,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-308.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 266.7 kB Used in GitHub's Storage 
  > 
-> 🏆 692 Contributions in the Year 2026
+> 🏆 700 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,18 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-YAML                     7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-TypeScript               4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Bash                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Vue                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-
-🔥 Editors: 
-Claude Code              13 hrs 21 mins      ███████████████░░░░░░░░░░   59.97 % 
-VS Code                  8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
+YAML                     8 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.15 % 
+Bash                     3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+TypeScript               3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Vue                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Linux                    22 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -227,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 19:19:05 UTC
+ Last Updated on 02/07/2026 16:26:09 UTC
 <!--END_SECTION:waka-->
   
 </div>
