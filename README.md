@@ -174,15 +174,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-309.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 267.0 kB Used in GitHub's Storage 
+> 📦 266.8 kB Used in GitHub's Storage 
  > 
-> 🏆 770 Contributions in the Year 2026
+> 🏆 771 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    15 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   39.70 % 
-Python                   7 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-TypeScript               2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-YAML                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Other                    15 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   39.99 % 
+Python                   10 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Markdown                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+YAML                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Bash                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Linux                    37 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 19:27:31 UTC
+ Last Updated on 11/07/2026 19:04:33 UTC
 <!--END_SECTION:waka-->
   
 </div>
