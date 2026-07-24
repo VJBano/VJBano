@@ -174,15 +174,13 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%2031%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-300.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 267.0 kB Used in GitHub's Storage 
+> 📦 267.1 kB Used in GitHub's Storage 
  > 
-> 🏆 831 Contributions in the Year 2026
+> 🏆 836 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -190,22 +188,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Other                    25 hrs 43 mins      ███████████████░░░░░░░░░░   60.70 % 
-TypeScript               4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Vue                      4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-JavaScript               2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-CSV                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-
-💻 Operating System: 
-Linux                    42 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -223,7 +205,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:17:12 UTC
+ Last Updated on 24/07/2026 19:25:22 UTC
 <!--END_SECTION:waka-->
   
 </div>
