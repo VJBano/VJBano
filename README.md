@@ -174,6 +174,8 @@
   -->
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%203%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -188,6 +190,22 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Other                    25 hrs 5 mins       ████████████████░░░░░░░░░   62.20 % 
+TypeScript               4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+JavaScript               3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Vue                      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+CSV                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+
+💻 Operating System: 
+Linux                    40 hrs 20 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -205,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:25:22 UTC
+ Last Updated on 25/07/2026 19:05:52 UTC
 <!--END_SECTION:waka-->
   
 </div>
