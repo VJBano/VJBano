@@ -174,9 +174,9 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-314%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -198,37 +198,37 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    22 hrs 16 mins      ███████████████░░░░░░░░░░   61.54 % 
-Markdown                 3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Bash                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Python                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Other                    20 hrs 31 mins      ██████████████░░░░░░░░░░░   54.09 % 
+Bash                     4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Markdown                 3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Python                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 💻 Operating System: 
-Linux                    36 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 16 mins (39.44%)
+⏱ AI Coding Time: 18 hrs 24 mins (48.53%)
 
-✍️ 8,785 lines written by AI, 592 lines written by hand (93.69% AI-written)
+✍️ 7,733 lines written by AI, 1,511 lines written by hand (83.65% AI-written)
 
-🔤 138,526,913 Input Tokens, 609,232 Output Tokens
+🔤 176,224,981 Input Tokens, 847,982 Output Tokens
 
-💵 $441.48 Estimated AI Cost This Week
+💵 $557.75 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 168 AI Prompts
+🧠 32 AI Sessions, 269 AI Prompts
 
-Sonnet                   8,968 lines         █████████████████████████   100.00 % 
+Sonnet                   7,893 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.69% of written lines came from AI
-📄 Detailed Prompter — average 761 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.08% of changed lines were hand-edited
+🤖 AI-Driven — 83.65% of written lines came from AI
+📄 Detailed Prompter — average 634 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 21.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -248,7 +248,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 19:19:14 UTC
+ Last Updated on 01/08/2026 19:08:59 UTC
 <!--END_SECTION:waka-->
   
 </div>
