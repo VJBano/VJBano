@@ -174,9 +174,9 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2014%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2018%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-320%20hrs%2044%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2054%20mins-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.05%20million%20lines%20of%20code-blue?style=flat-square)
 
@@ -184,7 +184,7 @@
 
 > 📦 267.5 kB Used in GitHub's Storage 
  > 
-> 🏆 877 Contributions in the Year 2026
+> 🏆 878 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -192,45 +192,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Other                    26 hrs 17 mins      ███████████████░░░░░░░░░░   60.55 % 
-Markdown                 3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Bash                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Python                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-TypeScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-
-💻 Operating System: 
-Linux                    43 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 19 hrs 23 mins (44.64%)
-
-✍️ 8,108 lines written by AI, 1,293 lines written by hand (86.25% AI-written)
-
-🔤 180,344,337 Input Tokens, 848,754 Output Tokens
-
-💵 $552.92 Estimated AI Cost This Week
-
-🧠 37 AI Sessions, 259 AI Prompts
-
-Sonnet                   8,383 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 86.25% of written lines came from AI
-📄 Detailed Prompter — average 753 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 18.89% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -248,7 +209,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 19:24:48 UTC
+ Last Updated on 05/08/2026 20:25:59 UTC
 <!--END_SECTION:waka-->
   
 </div>
