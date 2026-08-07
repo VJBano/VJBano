@@ -174,6 +174,10 @@
   -->
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2030%20mins-blue?style=flat-square)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2054%20mins-blue?style=flat-square)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.05%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
@@ -194,37 +198,37 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    18 hrs 2 mins       ████████████████░░░░░░░░░   62.04 % 
-TypeScript               2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Bash                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other                    14 hrs 48 mins      ██████████████████░░░░░░░   71.33 % 
+TypeScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Linux                    29 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    20 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 34 mins (39.81%)
+⏱ AI Coding Time: 6 hrs 6 mins (29.42%)
 
-✍️ 8,720 lines written by AI, 1,042 lines written by hand (89.33% AI-written)
+✍️ 7,768 lines written by AI, 111 lines written by hand (98.59% AI-written)
 
-🔤 167,900,711 Input Tokens, 622,892 Output Tokens
+🔤 118,601,273 Input Tokens, 328,795 Output Tokens
 
-💵 $512.47 Estimated AI Cost This Week
+💵 $411.81 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 167 AI Prompts
+🧠 10 AI Sessions, 56 AI Prompts
 
-Sonnet                   9,064 lines         █████████████████████████   100.00 % 
+Sonnet                   8,112 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.33% of written lines came from AI
-📄 Detailed Prompter — average 544 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 12.16% of changed lines were hand-edited
+🤖 AI-Driven — 98.59% of written lines came from AI
+📄 Detailed Prompter — average 844 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -244,7 +248,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:42:09 UTC
+ Last Updated on 07/08/2026 19:49:17 UTC
 <!--END_SECTION:waka-->
   
 </div>
