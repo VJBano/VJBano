@@ -198,35 +198,35 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    14 hrs 48 mins      ██████████████████░░░░░░░   71.33 % 
-TypeScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other                    12 hrs 14 mins      █████████████████░░░░░░░░   69.47 % 
+TypeScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    20 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 6 mins (29.42%)
+⏱ AI Coding Time: 5 hrs 10 mins (29.33%)
 
 ✍️ 7,768 lines written by AI, 111 lines written by hand (98.59% AI-written)
 
-🔤 118,601,273 Input Tokens, 328,795 Output Tokens
+🔤 116,460,958 Input Tokens, 317,604 Output Tokens
 
-💵 $411.81 Estimated AI Cost This Week
+💵 $407.15 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 56 AI Prompts
+🧠 8 AI Sessions, 52 AI Prompts
 
 Sonnet                   8,112 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.59% of written lines came from AI
-📄 Detailed Prompter — average 844 characters per prompt
+📄 Detailed Prompter — average 791 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 3.21% of changed lines were hand-edited
 ```
@@ -248,7 +248,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:26:04 UTC
+ Last Updated on 09/08/2026 19:30:28 UTC
 <!--END_SECTION:waka-->
   
 </div>
