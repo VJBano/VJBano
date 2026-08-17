@@ -178,13 +178,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%202%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.06%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.07%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 267.7 kB Used in GitHub's Storage 
  > 
-> 🏆 879 Contributions in the Year 2026
+> 🏆 880 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -198,20 +198,20 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    5 hrs 31 mins       ███████████████████░░░░░░   75.15 % 
-TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Vue                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    6 hrs 34 mins       ████████████████████░░░░░   78.24 % 
+TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Vue                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (29.15%)
+⏱ AI Coding Time: 2 hrs 8 mins (25.51%)
 
 ✍️ 2,546 lines written by AI, 234 lines written by hand (91.58% AI-written)
 
@@ -247,7 +247,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 19:11:05 UTC
+ Last Updated on 17/08/2026 19:30:04 UTC
 <!--END_SECTION:waka-->
   
 </div>
