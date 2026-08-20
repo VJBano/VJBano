@@ -174,17 +174,17 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2015%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2018%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2031%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2016%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.10%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-305.14%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 267.7 kB Used in GitHub's Storage 
  > 
-> 🏆 899 Contributions in the Year 2026
+> 🏆 911 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -198,46 +198,47 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    14 hrs 38 mins      ██████████████████░░░░░░░   71.79 % 
-TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Bash                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other                    18 hrs 27 mins      ████████████████░░░░░░░░░   65.32 % 
+Bash                     3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+TypeScript               2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Vue                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Linux                    20 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 37 mins (37.38%)
+⏱ AI Coding Time: 12 hrs 22 mins (43.81%)
 
-✍️ 4,441 lines written by AI, 411 lines written by hand (91.53% AI-written)
+✍️ 4,609 lines written by AI, 423 lines written by hand (91.59% AI-written)
 
-🔤 1,177,886 Input Tokens, 399,155 Output Tokens
+🔤 1,924,676 Input Tokens, 598,488 Output Tokens
 
-💵 $195.91 Estimated AI Cost This Week
+💵 $206.53 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 93 AI Prompts
+🧠 19 AI Sessions, 161 AI Prompts
 
-Sonnet                   4,515 lines         █████████████████████████   100.00 % 
+Sonnet                   4,686 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.53% of written lines came from AI
-📄 Detailed Prompter — average 581 characters per prompt
+🤖 AI-Driven — 91.59% of written lines came from AI
+📄 Detailed Prompter — average 619 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 9.36% of changed lines were hand-edited
+🚀 High AI Trust — 9.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ██████████████░░░░░░░░░░░   54.24 % 
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               33 repos            ██████████████░░░░░░░░░░░   55.00 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -247,7 +248,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:23:21 UTC
+ Last Updated on 20/08/2026 19:30:50 UTC
 <!--END_SECTION:waka-->
   
 </div>
