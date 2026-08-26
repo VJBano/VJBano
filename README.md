@@ -174,17 +174,17 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2045%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2014%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-349%20hrs%2057%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2054%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318.71%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.01%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.0 kB Used in GitHub's Storage 
  > 
-> 🏆 926 Contributions in the Year 2026
+> 🏆 966 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -198,38 +198,38 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    26 hrs 52 mins      ███████████████░░░░░░░░░░   58.77 % 
-Bash                     5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-TypeScript               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Vue                      3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-YAML                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Other                    25 hrs 2 mins       ███████████████░░░░░░░░░░   60.95 % 
+Vue                      4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Bash                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+TypeScript               2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+YAML                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Linux                    45 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs (45.94%)
+⏱ AI Coding Time: 17 hrs 16 mins (42.03%)
 
-✍️ 12,024 lines written by AI, 752 lines written by hand (94.11% AI-written)
+✍️ 10,563 lines written by AI, 616 lines written by hand (94.49% AI-written)
 
-🔤 3,932,433 Input Tokens, 1,179,677 Output Tokens
+🔤 3,900,603 Input Tokens, 1,026,247 Output Tokens
 
-💵 $257.97 Estimated AI Cost This Week
+💵 $260.71 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 305 AI Prompts
+🧠 24 AI Sessions, 237 AI Prompts
 
-Sonnet                   15,512 lines        █████████████████████████   99.99 % 
+Sonnet                   14,081 lines        █████████████████████████   99.99 % 
 Github-Copilot           1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.11% of written lines came from AI
-📄 Detailed Prompter — average 711 characters per prompt
+🤖 AI-Driven — 94.49% of written lines came from AI
+📄 Detailed Prompter — average 1,062 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 21.48% of changed lines were hand-edited
+🚀 High AI Trust — 22.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -249,7 +249,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:29:18 UTC
+ Last Updated on 26/08/2026 20:46:25 UTC
 <!--END_SECTION:waka-->
   
 </div>
