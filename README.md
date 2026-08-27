@@ -174,17 +174,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2014%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2021%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2054%20mins-blue?style=flat-square)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.01%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.10%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 268.0 kB Used in GitHub's Storage 
+> 📦 268.1 kB Used in GitHub's Storage 
  > 
-> 🏆 966 Contributions in the Year 2026
+> 🏆 967 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -198,16 +196,15 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-YAML                     7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-TypeScript               4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Bash                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Vue                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    25 hrs 2 mins       ███████████████░░░░░░░░░░   60.95 % 
+Vue                      4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Bash                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+TypeScript               2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+YAML                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
 Linux                    41 hrs 5 mins       █████████████████████████   100.00 % 
 ```
-
 
 **I Mostly Code in TypeScript** 
 
@@ -226,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:46:25 UTC
+ Last Updated on 27/08/2026 17:46:17 UTC
 <!--END_SECTION:waka-->
   
 </div>
