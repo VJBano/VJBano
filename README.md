@@ -202,10 +202,6 @@ Bash                     3 hrs 39 mins       ████░░░░░░░�
 Vue                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
-🔥 Editors: 
-Claude Code              13 hrs 21 mins      ███████████████░░░░░░░░░░   59.97 % 
-VS Code                  8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
-
 💻 Operating System: 
 Linux                    22 hrs 16 mins      █████████████████████████   100.00 % 
 ```
