@@ -176,13 +176,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2049%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.32%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.80%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.2 kB Used in GitHub's Storage 
  > 
-> 🏆 972 Contributions in the Year 2026
+> 🏆 981 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    24 hrs 19 mins      ████████████████░░░░░░░░░   62.67 % 
-Vue                      4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-TypeScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Bash                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    22 hrs 28 mins      ████████████████░░░░░░░░░   65.81 % 
+Vue                      3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+TypeScript               2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 Operating System: 
-Linux                    38 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:34:18 UTC
+ Last Updated on 31/08/2026 23:18:51 UTC
 <!--END_SECTION:waka-->
   
 </div>
