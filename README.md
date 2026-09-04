@@ -174,15 +174,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2052%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2034%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.43%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.51%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,009 Contributions in the Year 2026
+> 🏆 1,017 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,24 +196,24 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    25 hrs              ██████████████████░░░░░░░   70.80 % 
-TypeScript               4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Vue                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Other                    20 hrs 14 mins      ███████████████░░░░░░░░░░   58.04 % 
+TypeScript               4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+JavaScript               2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Vue                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Linux                    35 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ██████████████░░░░░░░░░░░   55.00 % 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               34 repos            ██████████████░░░░░░░░░░░   55.74 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:36:17 UTC
+ Last Updated on 04/09/2026 21:13:15 UTC
 <!--END_SECTION:waka-->
   
 </div>
