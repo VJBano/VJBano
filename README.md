@@ -176,13 +176,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2053%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.51%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.67%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,017 Contributions in the Year 2026
+> 🏆 1,030 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    21 hrs 17 mins      ███████████████░░░░░░░░░░   60.22 % 
-TypeScript               4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-JavaScript               2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Vue                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Other                    20 hrs 1 min        ██████████████░░░░░░░░░░░   56.29 % 
+TypeScript               5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Vue                      2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JavaScript               2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Linux                    35 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:53:22 UTC
+ Last Updated on 07/09/2026 21:59:02 UTC
 <!--END_SECTION:waka-->
   
 </div>
