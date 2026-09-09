@@ -174,15 +174,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2058%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2045%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340.20%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340.33%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,050 Contributions in the Year 2026
+> 🏆 1,051 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    23 hrs 35 mins      ██████████████░░░░░░░░░░░   56.92 % 
-TypeScript               6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Vue                      3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JavaScript               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other                    27 hrs 10 mins      ███████████████░░░░░░░░░░   60.93 % 
+TypeScript               6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Vue                      3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JavaScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+HTML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 💻 Operating System: 
-Linux                    41 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:47:43 UTC
+ Last Updated on 09/09/2026 21:26:54 UTC
 <!--END_SECTION:waka-->
   
 </div>
