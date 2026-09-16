@@ -174,15 +174,15 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2014%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340.82%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341.16%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 268.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,076 Contributions in the Year 2026
+> 🏆 1,077 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    24 hrs 56 mins      ██████████████░░░░░░░░░░░   56.15 % 
-TypeScript               7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Vue                      5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-YAML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    21 hrs 41 mins      █████████████░░░░░░░░░░░░   50.20 % 
+TypeScript               9 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Vue                      5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+YAML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-Linux                    44 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:59:44 UTC
+ Last Updated on 16/09/2026 21:54:13 UTC
 <!--END_SECTION:waka-->
   
 </div>
