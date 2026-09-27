@@ -176,11 +176,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2047%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-339.47%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-339.33%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 269.0 kB Used in GitHub's Storage 
+> 📦 269.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,124 Contributions in the Year 2026
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    14 hrs 28 mins      ████████████████░░░░░░░░░   63.93 % 
-Markdown                 2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Other                    18 hrs 22 mins      █████████████████░░░░░░░░   69.23 % 
+Markdown                 2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Linux                    22 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:43:06 UTC
+ Last Updated on 27/09/2026 21:53:39 UTC
 <!--END_SECTION:waka-->
   
 </div>
