@@ -174,9 +174,9 @@
   -->
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%206%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2020%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.57%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335.33%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    17 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.87 % 
-Markdown                 9 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-TypeScript               5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JavaScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-C++                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    18 hrs 31 mins      ████████████░░░░░░░░░░░░░   46.91 % 
+Markdown                 10 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+TypeScript               5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+JavaScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Linux                    38 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:53:29 UTC
+ Last Updated on 09/10/2026 23:08:58 UTC
 <!--END_SECTION:waka-->
   
 </div>
