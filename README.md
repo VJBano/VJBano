@@ -176,13 +176,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-922%20hrs%206%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.64%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.91%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 271.2 kB Used in GitHub's Storage 
+> 📦 271.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,191 Contributions in the Year 2026
+> 🏆 1,195 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,14 +196,14 @@
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    22 hrs 51 mins      ████████████████░░░░░░░░░   63.69 % 
-TypeScript               4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Bash                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Vue                      1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Other                    25 hrs 7 mins       ███████████████░░░░░░░░░░   60.46 % 
+TypeScript               5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Bash                     3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Vue                      2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 💻 Operating System: 
-Linux                    35 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -223,7 +223,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VJBano/VJBano/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 21:19:20 UTC
+ Last Updated on 19/10/2026 22:55:56 UTC
 <!--END_SECTION:waka-->
   
 </div>
